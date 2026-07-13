@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Classic Web-Slinger",
-    "previewUrl": "001.jpeg",
+    "title": "Live Wallpaper 1",
+    "previewUrl": "001.png",
     "shouldLoop": false,
     "liveVideoUrl": "001.mp4",
     "metadata": {
@@ -19,8 +19,8 @@
     }
   },
   {
-    "id": 1,
-    "title": "Classic Web-Slinger",
+    "id": 2,
+    "title": "Live Wallpaper 2",
     "previewUrl": "002.jpeg",
     "shouldLoop": false,
     "liveVideoUrl": "002.mp4",
@@ -38,8 +38,8 @@
     }
   },
   {
-    "id": 1,
-    "title": "Classic Web-Slinger",
+    "id": 3,
+    "title": "Live Wallpaper 3",
     "previewUrl": "003.jpeg",
     "shouldLoop": false,
     "liveVideoUrl": "003.mp4",
@@ -58,8 +58,8 @@
   },
   {
     "id": 4,
-    "title": "Classic Web-Slinger",
-    "previewUrl": "004.jpeg",
+    "title": "Live Wallpaper 4",
+    "previewUrl": "004.png",
     "shouldLoop": false,
     "liveVideoUrl": "004.mp4",
     "metadata": {
